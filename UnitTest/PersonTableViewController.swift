@@ -25,7 +25,6 @@ class PersonTableViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad();
-        tableView.accessibilityIdentifier = "tableView";
 
         // Uncomment the following line to preserve selection between presentations
         // clearsSelectionOnViewWillAppear = false;
